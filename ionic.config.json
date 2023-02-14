@@ -1,0 +1,7 @@
+{
+  "name": "App_hellow_world",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
